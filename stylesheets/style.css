@@ -1,0 +1,40 @@
+a{
+	text-decoration: none;
+	color: black;
+}
+a.pagelink{
+	padding-right: 20px;
+	margin-bottom: 30px;
+	font-size: 1em;
+}
+a:hover{
+	text-decoration: none;
+	color: black;
+}
+#photocontainer{
+	text-align: justify;
+}
+.painting{
+	display: inline-block;
+	padding-bottom: 10px;
+}
+
+img{
+	height: 150px;
+}
+.indiv{
+	text-align: center;
+}
+.indiv img{
+  height: 60%;
+}
+.title{
+	text-align: right;
+	/*display: inline-block;*/
+}
+.logo{
+	height: 75px;
+}
+h4{
+	font-size: 0.75em;
+}
